@@ -1,0 +1,14 @@
+[
+    {
+       "id": "univ-101",
+       "name": "하버드",
+       "location": "메사추세츠",
+       "rating": 3.2
+    },
+    {
+       "id": "univ-102",
+       "name": "서울대",
+       "location": "서울시 관악구",
+       "rating": 4.1
+    }
+ ]

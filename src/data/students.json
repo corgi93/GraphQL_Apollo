@@ -1,0 +1,28 @@
+[
+    {
+       "id": "S1001",
+       "firstName":"길동",
+       "lastName":"홍",
+       "email": "gildong@aver.com",
+       "password": "pass123",
+       "collegeId": "univ-102"
+    },
+    
+    {
+       "id": "S1002",
+       "email": "jina@daum.net",
+       "firstName":"지나",
+       "lastName":"김",
+       "password": "pw5118",
+       "collegeId": "univ-101"
+    },
+    
+    {
+       "id": "S1003",
+       "email": "jinho@google.com",
+       "firstName":"진호",
+       "lastName":"최",
+       "password": "pw3437",
+       "collegeId": "univ-101"
+    }
+ ]
